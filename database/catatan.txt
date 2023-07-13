@@ -1,0 +1,9 @@
+==== ADMIN ===
+
+Email	: apri29@gmail.com
+PW	: 1234
+
+==== USER ===
+
+Email 	: jhon@gmail.com
+PW	: 1234
